@@ -3,8 +3,6 @@
 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. 
 My personal mission is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 
-- 🔭 I’m currently working on a Personal Assistant that helps suggest, remind and monitor individauals who are trying to develop a new habit or eliminate aa bad one.
-
 - 👯 If you have an idea related to my areas of interest, feel free to shoot me an email!
 - khalidjama741@gmail.com
 
