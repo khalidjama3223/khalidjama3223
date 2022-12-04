@@ -1,6 +1,5 @@
 ### About 👋
 
-<!--
 **khalidjama3223/khalidjama3223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 About
@@ -36,4 +35,5 @@ AI Portfolio
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+###
