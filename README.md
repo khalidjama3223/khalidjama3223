@@ -6,6 +6,7 @@ My personal mission is to build AI-based solutions that solve a high-impact prob
 - 🔭 I’m currently working on a Personal Assistant that helps suggest, remind and monitor individauals who are trying to develop a new habit or eliminate aa bad one.
 
 - 👯 If you have an idea related to my areas of interest, feel free to shoot me an email!
+- khalidjama741@gmail.com
 
 - 📫 Feel free to connect with me on LinkedIn to stay updated with my latest AI content.
 https://www.linkedin.com/in/khalid-jama-a7a42822a/
