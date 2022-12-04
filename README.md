@@ -1,7 +1,5 @@
 ### About 👋
 
-**khalidjama3223/khalidjama3223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. 
 My personal mission is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 
