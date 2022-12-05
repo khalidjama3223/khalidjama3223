@@ -9,8 +9,6 @@ My personal mission is to build AI-based solutions that solve a high-impact prob
 - 📫 Feel free to connect with me on LinkedIn to stay updated with my latest AI content.
 https://www.linkedin.com/in/khalid-jama-a7a42822a/
 
-🌱 I'm currently pursuing my graduate studies part-time in Computer Science with a specialization in Artificial Intelligence from Stanford University.
-
 🎓 I received my Bachelor's in Biomedical Engineering from the Toronto Metropolitan University.
 
 AI Portfolio
